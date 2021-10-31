@@ -1,0 +1,7 @@
+enum BottomNavState{
+  SHOW_HOME_STATE,
+  SHOW_SEARCH_STATE,
+  SHOW_twitch_STATE,
+  SHOW_CART_STATE,
+  SHOW_ACCOUNT_STATE,
+}
